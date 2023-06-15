@@ -20,7 +20,7 @@ urls.Source = "https://github.com/m/YosefLab/scvi-census"
 urls.Home-page = "https://github.com/m/YosefLab/scvi-census"
 dependencies = [
     "scvi-tools>=1.0.0",
-    "cellxgene-census>=1.1.0",
+    "cellxgene-census>=1.2.0",
     "session-info"
 ]
 
