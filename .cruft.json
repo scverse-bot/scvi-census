@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/scverse/cookiecutter-scverse",
-  "commit": "c01f04dafd52a36b10370029f7184108c939dcff",
-  "checkout": null,
+  "commit": "098cfcc1e0086e5725453a371d7077a63d96a958",
+  "checkout": "main",
   "context": {
     "cookiecutter": {
       "project_name": "scvi-census",
