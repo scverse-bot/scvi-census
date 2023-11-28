@@ -33,7 +33,7 @@ pip install scvi-census
 1. Install the latest development version:
 
 ```bash
-pip install git+https://github.com/martinkim0/scvi-census.git@main
+pip install git+https://github.com/m/YosefLab/scvi-census.git@main
 ```
 
 ## Release notes
